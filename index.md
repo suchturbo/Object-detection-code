@@ -1,9 +1,10 @@
 Object Detection
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
-| **Engineer** | **School** | **Area of Interest** | **Grade** |
+Object detection helps robots and computers naviagte through obstacles in their way. Without object detection modern day robots would not be able to take a step forward.
+
+| **Engineer | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Shuchir Harsha | Evergreen Valley Highschool | Electrical Engineering | Incoming Senior
 
 ![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
   
