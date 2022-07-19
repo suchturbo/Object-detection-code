@@ -2,7 +2,7 @@ Object Detection
 
 Object detection helps robots and computers naviagte through obstacles in their way. Without object detection modern day robots would not be able to take a step forward.
 
-| **Engineer | **School** | **Area of Interest** | **Grade** |
+| **Name** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Shuchir Harsha | Evergreen Valley Highschool | Electrical Engineering | Incoming Senior
 
