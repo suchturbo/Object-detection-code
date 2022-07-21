@@ -4,7 +4,6 @@ Object detection helps robots and computers naviagte through obstacles in their 
 
 | **Name** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-
 | Shuchir. | Evergreen Valley Highschool | Electrical Engineering | Incoming Senior
 
 ![39ca83c1-0a4f-41eb-80cb-15f0fceede85](https://user-images.githubusercontent.com/62129061/180271338-93fff5fe-fefc-4372-8323-d499138de607.jpg)
