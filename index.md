@@ -22,7 +22,7 @@ My first milestone came with setting up the actual rasberry pi and all the necce
  <iframe width="560" height="315" src="https://www.youtube.com/embed/0dlQdvDuWSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Code for webcam activation
-
+```python
 import cv2
 import numpy as mp
 import time
@@ -77,4 +77,4 @@ while True:
     frame1 = frame.copy()
     cv2.imshow('test', frame1)
     cv2.waitKey(1)
-
+```
