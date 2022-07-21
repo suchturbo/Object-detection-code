@@ -5,12 +5,15 @@ Object detection helps robots and computers naviagte through obstacles in their 
 | **Name** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Shuchir. | Evergreen Valley Highschool | Electrical Engineering | Incoming Senior
+
 ![39ca83c1-0a4f-41eb-80cb-15f0fceede85](https://user-images.githubusercontent.com/62129061/180271338-93fff5fe-fefc-4372-8323-d499138de607.jpg)
 
 ![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
 
  
 # Project
+
+Here is a picture of my project and a small sample of what it does
 
 ![Screenshot (50)](https://user-images.githubusercontent.com/62129061/180272585-26df6a8e-561b-42c4-b530-23d0b8fadc6b.png)
 
