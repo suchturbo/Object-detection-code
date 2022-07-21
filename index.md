@@ -23,7 +23,7 @@ Here is a picture of my project and a small sample of what it does
 
 
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. But, unfortunately in the middle of developing my final project my rasberry pi stopped working. I had to waste 3 days trying to find a new rasberry pi and finally when I got it it took more time trying to set it up again. Fortunately, I got it working using the old code I had on my broken rasberry pi and I finished my main project. I increaased the accuracy and even added more objects that it could detect like the chair.
+My final milestone is the increased reliability and accuracy of my robot. But, unfortunately in the middle of developing my final project my rasberry pi stopped working. I had to waste 3 days trying to find a new rasberry pi and finally when I got it it took more time trying to set it up again. Fortunately, I got it working using the old code I had on my broken rasberry pi and I finished my main project. I increased the accuracy and even added more objects that it could detect like the chair.  Hopefully one day I wil be able to use the knowledge I gained from this programming in the real world. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k7kFMKFyNmw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
