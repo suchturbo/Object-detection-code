@@ -23,7 +23,7 @@ Here is a picture of my project and a small sample of what it does
 
 
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My final milestone is the increased reliability and accuracy of my robot. But, unfortunately in the middle of developing my final project my rasberry pi stopped working. I had to waste 3 days trying to find a new rasberry pi and finally when I got it it took more time trying to set it up again. Fortunately, I got it working using the old code I had on my broken rasberry pi and I finished my main project. I increaased the accuracy and even added more objects that it could detect like the chair.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k7kFMKFyNmw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
