@@ -1,4 +1,4 @@
-Object Detection
+# Object Detection
 
 Object detection helps robots and computers naviagte through obstacles in their way. Without object detection modern day robots would not be able to take a step forward.
 
