@@ -10,7 +10,7 @@ Object detection helps robots and computers naviagte through obstacles in their 
 
 
 <p align="center">
-  <img src="https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png" />
+  <img src="https://raw.githubusercontent.com/suchturbo/Object-detection-code/main/branding/BlueStamp-Engineering-Logo-White.png" />
 </p>
 
  
