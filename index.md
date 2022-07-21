@@ -7,12 +7,15 @@ Object detection helps robots and computers naviagte through obstacles in their 
 | Shuchir. | Evergreen Valley Highschool | Electrical Engineering | Incoming Senior
 ![39ca83c1-0a4f-41eb-80cb-15f0fceede85](https://user-images.githubusercontent.com/62129061/180271338-93fff5fe-fefc-4372-8323-d499138de607.jpg)
 
-
-![Screenshot33](https://user-images.githubusercontent.com/62129061/180271712-a9af0e26-799e-4a6c-baae-5ef16dfc5966.png)
-
-
 ![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
-  
+
+ 
+# Project
+
+![Screenshot (50)](https://user-images.githubusercontent.com/62129061/180272585-26df6a8e-561b-42c4-b530-23d0b8fadc6b.png)
+
+
+
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
 
